@@ -1,0 +1,22 @@
+{
+ "m_name": "phpOop",
+ "m_isActive": false,
+ "m_importFileSpec": "*.php;*.php5;*.inc;*.phtml;*.js;*.html;*.css;*.scss;*.less;*.json;*.xml;*.ini;*.md;*.txt;*.text;.htaccess;*.ctp;*.jpg",
+ "m_excludeFolders": ".git;.svn;.codelite;.clang",
+ "settings": {
+  "m_runAs": 1,
+  "m_phpExe": "",
+  "m_indexFile": "C:\\Learning\\laravel\\phpOop\\admin\\includes\\ajax_code.php",
+  "m_args": "",
+  "m_workingDirectory": "",
+  "m_projectURL": "http://phpoop.test",
+  "m_includePath": "",
+  "m_ccIncludePath": "",
+  "m_flags": 5,
+  "m_phpIniFile": "",
+  "m_fileMapping": [{
+    "key": "C:\\Learning\\laravel\\phpOop",
+    "value": "/"
+   }]
+ }
+}
